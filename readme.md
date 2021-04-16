@@ -1,6 +1,6 @@
 # no3js
 
-> 学习途径
+## 学习途径
 
 - [three.js 官方文档](https://threejs.org/)
 - book: three.js 开发指南
